@@ -1,6 +1,5 @@
-  #Welcome to my page
   Hi, I’m @strangecodder. Nowdays I am studying at MIREA university.
-
+  
 
 <!---
 strangecodder/strangecodder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

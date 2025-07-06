@@ -1,7 +1,8 @@
-  Hi, I’m @strangecodder. Bachelar of Computer Science of MIREA university. I am interesting in Spring and System programming.
-  You also can check my leetcode account and cv
+# About me
+Hi, I’m @strangecodder. Bachelar of Computer Science of MIREA university. I am interesting in Spring and System programming.
+You also can check my leetcode account and cv
 
-# Скилы
+# Skills
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <!---

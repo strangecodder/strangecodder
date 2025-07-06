@@ -1,4 +1,4 @@
-  Hi, I’m @strangecodder. Nowdays I am studying at MIREA university. I am interesting in Spring and System programming.
+  Hi, I’m @strangecodder. Bachelar of Computer Science of MIREA university. I am interesting in Spring and System programming.
   You also can check my leetcode account and cv
 
 <!---

@@ -1,6 +1,8 @@
 # About me
 Hi, I’m @strangecodder. Bachelar of Computer Science of MIREA university. I am interesting in Spring and System programming.
-You also can check my leetcode account and cv
+You also can check my leetcode and codeforces accounts
+1. Leetcode: https://leetcode.com/strangecodder/
+2. Codeforces: https://codeforces.com/profile/strangecodder
 
 # Skills
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
